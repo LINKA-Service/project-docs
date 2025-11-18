@@ -71,6 +71,12 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
 - Cloudflare R2에 증거 파일 저장
 
 ### 3.2. AI 기반 피해자 매칭
+<details>
+  <summary><strong>해당 기능 UI/UX 이미지 보기</strong></summary>
+  <img src="UIUX-images/Matching/matching.png" width="600" />
+  <img src="UIUX-images/Chat/chat.png" width="600" />
+</details>
+
 #### 매칭 알고리즘
 (1) 1차 필터링: 가해자 식별 정보 기반 정확 매칭
 - 계좌번호, 전화번호, 계정 ID 등 고유 식별자 일치 여부 확인
