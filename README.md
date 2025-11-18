@@ -27,6 +27,7 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
   <img src="UIUX-images/DamageRegistration/path.png" width="600" />
   <img src="UIUX-images/DamageRegistration/online.png" width="600" />
   <img src="UIUX-images/DamageRegistration/offline.png" width="600" />
+  <img src="UIUX-images/DamageRegistration/offender-info.png" width="600" />
 </details>
 
 - 사용자가 구조화된 폼을 통해 기본 정보 입력함
@@ -43,11 +44,17 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
     - 기타 식별 가능 정보
 
 (2) 자유로운 형식으로 진술서 작성
+<details>
+  <summary><strong>UI/UX 이미지 보기</strong></summary>
+  <img src="UIUX-images/DamageRegistration/affidavit.png" width="600" />
+  <img src="UIUX-images/DamageRegistration/AI-additional-question.png" width="600" />
+</details>
+
 - 사용자가 피해 경위를 자유롭게 서술함
-- AI가 실시간으로 진술을 분석하여 추가 질문을 생성함
+- 작성을 완료하면 AI가 진술을 분석하여 추가 질문을 생성함
   - 예시1: *가해자와의 첫 연락 날짜가 명확하지 않습니다. 대략적인 시점을 알려주시겠습니까?*
   - 예시2: *송금하게 된 구체적인 이유나 가해자의 설명이 있었나요?*
-- 불명확하거나 누락된 부분을 보완함
+- 여기서 불명확하거나 누락된 부분을 보완함
 
 (3) 증거 업로드
 - 대화 캡처, 거래 내역, 계약서 등 증거 자료 업로드
