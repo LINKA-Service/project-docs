@@ -22,6 +22,13 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
 ## 3. 서비스의 기능
 ### 3.1. 피해자 등록
 (1) 초기 정보 입력
+<details>
+  <summary><strong>UI/UX 이미지 보기</strong></summary>
+  <img src="UIUX-images/DamageRegistration/path.png" width="600" />
+  <img src="UIUX-images/DamageRegistration/online.png" width="600" />
+  <img src="UIUX-images/DamageRegistration/offline.png" width="600" />
+</details>
+
 - 사용자가 구조화된 폼을 통해 기본 정보 입력함
   - 사기 유형 (중고거래, 전세, 투자, 대출, 기타 등)
   - 온/오프라인 여부
@@ -40,7 +47,7 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
 - AI가 실시간으로 진술을 분석하여 추가 질문을 생성함
   - 예시1: *가해자와의 첫 연락 날짜가 명확하지 않습니다. 대략적인 시점을 알려주시겠습니까?*
   - 예시2: *송금하게 된 구체적인 이유나 가해자의 설명이 있었나요?*
-- 불명확하거나 누락된 부분을 대화형으로 보완함
+- 불명확하거나 누락된 부분을 보완함
 
 (3) 증거 업로드
 - 대화 캡처, 거래 내역, 계약서 등 증거 자료 업로드
