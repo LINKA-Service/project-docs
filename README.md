@@ -1,6 +1,8 @@
 # 프로젝트명 : LINKA
 > ### AI 기반 피해자 매칭 및 초기 법률 지원 플랫폼 - 동일 가해자 혹은 유사 수법으로 사기 피해를 당한 피해자들을 연결하여 공동 대응을 돕는 서비스
+
 ---
+
 ## 1. 핵심 아이디어
 AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법으로 사기를 당한 피해자들을 자동으로 매칭하고, 초기 법률 조언과 증거 보전 가이드를 제공하여 피해자들이 보다 효율적으로 공동 대응을 준비하도록 돕는 서비스이다.
 
@@ -20,10 +22,16 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
 ---
 
 ## 3. 서비스의 기능
+
+<details>
+  <summary><strong>Main 페이지 UI/UX 이미지 보기</strong></summary>
+  <img src="UIUX-images/main.png" width="600">
+</details>
+
 ### 3.1. 피해자 등록
 (1) 초기 정보 입력
 <details>
-  <summary><strong>UI/UX 이미지 보기</strong></summary>
+  <summary><strong>해당 기능 UI/UX 이미지 보기</strong></summary>
   <img src="UIUX-images/DamageRegistration/path.png" width="600" />
   <img src="UIUX-images/DamageRegistration/online.png" width="600" />
   <img src="UIUX-images/DamageRegistration/offline.png" width="600" />
@@ -45,7 +53,7 @@ AI를 활용해 동일 가해자에게 피해를 입었거나 유사한 수법�
 
 (2) 자유로운 형식으로 진술서 작성
 <details>
-  <summary><strong>UI/UX 이미지 보기</strong></summary>
+  <summary><strong>해당 기능 UI/UX 이미지 보기</strong></summary>
   <img src="UIUX-images/DamageRegistration/affidavit.png" width="600" />
   <img src="UIUX-images/DamageRegistration/AI-additional-question.png" width="600" />
 </details>
